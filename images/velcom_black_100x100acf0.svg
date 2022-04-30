@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100px" height="100px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100 100"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black}
+    .fil2 {fill:#B2A500}
+    .fil1 {fill:#EFDB00}
+    .fil3 {fill:#FEED01}
+   ]]>
+  </style>
+ </defs>
+ <g id="velcom">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="100.001" height="100"/>
+  <polygon class="fil1" points="50,41 62,53 74,65 62,77 50,89 38,77 26,65 38,53 "/>
+  <polygon class="fil2" points="26,17 38,29 50,41 38,53 26,65 14,53 2,41 14,29 "/>
+  <polygon class="fil3" points="74,17 86,29 98,41 86,53 74,65 62,53 50,41 62,29 "/>
+ </g>
+</svg>
